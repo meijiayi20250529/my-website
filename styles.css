@@ -100,7 +100,6 @@ main {
 
 .hero {
   position: relative;
-  overflow: hidden;
   min-height: 0;
   display: grid;
   align-content: center;
@@ -132,8 +131,7 @@ main {
 }
 
 .title-row {
-  display: inline-block;
-  white-space: nowrap;
+  display: block;
 }
 
 .highlight {
