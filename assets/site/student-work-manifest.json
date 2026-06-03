@@ -1,0 +1,180 @@
+{
+  "pet-cloud": [
+    {
+      "src": "assets/site/student-work/pet-cloud/page-05.jpg",
+      "page": 5,
+      "w": 1311,
+      "h": 1132
+    },
+    {
+      "src": "assets/site/student-work/pet-cloud/page-06.jpg",
+      "page": 6,
+      "w": 325,
+      "h": 436
+    },
+    {
+      "src": "assets/site/student-work/pet-cloud/page-09.jpg",
+      "page": 9,
+      "w": 556,
+      "h": 416
+    },
+    {
+      "src": "assets/site/student-work/pet-cloud/page-10.jpg",
+      "page": 10,
+      "w": 1331,
+      "h": 673
+    },
+    {
+      "src": "assets/site/student-work/pet-cloud/page-11.jpg",
+      "page": 11,
+      "w": 257,
+      "h": 525
+    },
+    {
+      "src": "assets/site/student-work/pet-cloud/page-12.jpg",
+      "page": 12,
+      "w": 566,
+      "h": 579
+    }
+  ],
+  "palace-app": [
+    {
+      "src": "assets/site/student-work/palace-app/page-13.jpg",
+      "page": 13,
+      "w": 1165,
+      "h": 1068
+    },
+    {
+      "src": "assets/site/student-work/palace-app/page-14.jpg",
+      "page": 14,
+      "w": 437,
+      "h": 530
+    },
+    {
+      "src": "assets/site/student-work/palace-app/page-19.jpg",
+      "page": 19,
+      "w": 513,
+      "h": 376
+    },
+    {
+      "src": "assets/site/student-work/palace-app/page-21.jpg",
+      "page": 21,
+      "w": 431,
+      "h": 923
+    },
+    {
+      "src": "assets/site/student-work/palace-app/page-23.jpg",
+      "page": 23,
+      "w": 488,
+      "h": 957
+    },
+    {
+      "src": "assets/site/student-work/palace-app/page-24.jpg",
+      "page": 24,
+      "w": 1800,
+      "h": 1200
+    }
+  ],
+  "medical-screen": [
+    {
+      "src": "assets/site/student-work/medical-screen/page-25.jpg",
+      "page": 25,
+      "w": 1170,
+      "h": 779
+    },
+    {
+      "src": "assets/site/student-work/medical-screen/page-26.jpg",
+      "page": 26,
+      "w": 1391,
+      "h": 638
+    },
+    {
+      "src": "assets/site/student-work/medical-screen/page-29.jpg",
+      "page": 29,
+      "w": 342,
+      "h": 197
+    },
+    {
+      "src": "assets/site/student-work/medical-screen/page-30.jpg",
+      "page": 30,
+      "w": 690,
+      "h": 488
+    },
+    {
+      "src": "assets/site/student-work/medical-screen/page-31.jpg",
+      "page": 31,
+      "w": 879,
+      "h": 424
+    },
+    {
+      "src": "assets/site/student-work/medical-screen/page-32.jpg",
+      "page": 32,
+      "w": 229,
+      "h": 172
+    }
+  ],
+  "visual-work": [
+    {
+      "src": "assets/site/student-work/visual-work/page-47.jpg",
+      "page": 47,
+      "w": 1800,
+      "h": 1013
+    },
+    {
+      "src": "assets/site/student-work/visual-work/page-48.jpg",
+      "page": 48,
+      "w": 1800,
+      "h": 1013
+    },
+    {
+      "src": "assets/site/student-work/visual-work/page-51.jpg",
+      "page": 51,
+      "w": 1800,
+      "h": 1013
+    },
+    {
+      "src": "assets/site/student-work/visual-work/page-52.jpg",
+      "page": 52,
+      "w": 1800,
+      "h": 1013
+    },
+    {
+      "src": "assets/site/student-work/visual-work/page-53.jpg",
+      "page": 53,
+      "w": 1800,
+      "h": 1013
+    }
+  ],
+  "digital-dashboard": [
+    {
+      "src": "assets/site/digital-dashboard/gallery-01.jpg",
+      "name": "1_1.png",
+      "w": 1800,
+      "h": 932
+    },
+    {
+      "src": "assets/site/digital-dashboard/gallery-02.jpg",
+      "name": "2_1.png",
+      "w": 1800,
+      "h": 932
+    },
+    {
+      "src": "assets/site/digital-dashboard/gallery-03.jpg",
+      "name": "3.png",
+      "w": 1298,
+      "h": 1200
+    },
+    {
+      "src": "assets/site/digital-dashboard/gallery-04.jpg",
+      "name": "4.png",
+      "w": 890,
+      "h": 1200
+    },
+    {
+      "src": "assets/site/digital-dashboard/gallery-05.jpg",
+      "name": "5.png",
+      "w": 1800,
+      "h": 901
+    }
+  ]
+}

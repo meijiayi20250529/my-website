@@ -1,0 +1,253 @@
+{
+  "baidu-ai": {
+    "cover": "assets/site/baidu-ai/cover.jpg",
+    "gallery": [
+      {
+        "src": "assets/site/baidu-ai/gallery-01.jpg",
+        "name": "首页.png",
+        "w": 1440,
+        "h": 900
+      },
+      {
+        "src": "assets/site/baidu-ai/gallery-02.jpg",
+        "name": "首页-深色版本.png",
+        "w": 1440,
+        "h": 900
+      },
+      {
+        "src": "assets/site/baidu-ai/gallery-03.jpg",
+        "name": "数字人-脚本生成.png",
+        "w": 1440,
+        "h": 900
+      },
+      {
+        "src": "assets/site/baidu-ai/gallery-04.jpg",
+        "name": "数字人-视频编辑.png",
+        "w": 1440,
+        "h": 900
+      },
+      {
+        "src": "assets/site/baidu-ai/gallery-05.jpg",
+        "name": "选择数字人.png",
+        "w": 1440,
+        "h": 900
+      },
+      {
+        "src": "assets/site/baidu-ai/gallery-06.jpg",
+        "name": "我的.png",
+        "w": 1440,
+        "h": 900
+      },
+      {
+        "src": "assets/site/baidu-ai/gallery-07.jpg",
+        "name": "手机端-邀请页面.png",
+        "w": 414,
+        "h": 896
+      }
+    ],
+    "coverSize": {
+      "w": 1440,
+      "h": 900
+    }
+  },
+  "huiboxing": {
+    "cover": "assets/site/huiboxing/cover.jpg",
+    "gallery": [
+      {
+        "src": "assets/site/huiboxing/gallery-01.jpg",
+        "name": "账号申请管理-优化前.png",
+        "w": 1800,
+        "h": 1003
+      },
+      {
+        "src": "assets/site/huiboxing/gallery-02.jpg",
+        "name": "账号申请管理.png",
+        "w": 1800,
+        "h": 1012
+      },
+      {
+        "src": "assets/site/huiboxing/gallery-03.jpg",
+        "name": "形象库-公共库-列表模式.png",
+        "w": 1800,
+        "h": 1012
+      },
+      {
+        "src": "assets/site/huiboxing/gallery-04.jpg",
+        "name": "形象库-公共库-卡片模式.png",
+        "w": 1800,
+        "h": 1012
+      },
+      {
+        "src": "assets/site/huiboxing/gallery-05.jpg",
+        "name": "衔接语页面-优化前.png",
+        "w": 1800,
+        "h": 993
+      },
+      {
+        "src": "assets/site/huiboxing/gallery-06.jpg",
+        "name": "衔接语页面.png",
+        "w": 1800,
+        "h": 1012
+      },
+      {
+        "src": "assets/site/huiboxing/gallery-07.jpg",
+        "name": "新建弹窗.png",
+        "w": 1800,
+        "h": 1012
+      },
+      {
+        "src": "assets/site/huiboxing/gallery-08.jpg",
+        "name": "删除确认.png",
+        "w": 1800,
+        "h": 1012
+      }
+    ],
+    "coverSize": {
+      "w": 1500,
+      "h": 843
+    }
+  },
+  "baidu-youxuan": {
+    "cover": "assets/site/baidu-youxuan/cover.jpg",
+    "gallery": [
+      {
+        "src": "assets/site/baidu-youxuan/gallery-01.jpg",
+        "name": "搜索中心场-日常态-改前.png",
+        "w": 554,
+        "h": 1200
+      },
+      {
+        "src": "assets/site/baidu-youxuan/gallery-02.jpg",
+        "name": "搜索中心场-日常态-新增直播频道-改后.png",
+        "w": 555,
+        "h": 1200
+      },
+      {
+        "src": "assets/site/baidu-youxuan/gallery-03.jpg",
+        "name": "搜索AI助手商品卡升级-改前.png",
+        "w": 554,
+        "h": 1200
+      },
+      {
+        "src": "assets/site/baidu-youxuan/gallery-04.jpg",
+        "name": "搜索AI助手商品卡升级-改后.png",
+        "w": 554,
+        "h": 1200
+      },
+      {
+        "src": "assets/site/baidu-youxuan/gallery-05.jpg",
+        "name": "AI助手-购物搭子入口 1.png",
+        "w": 488,
+        "h": 1200
+      },
+      {
+        "src": "assets/site/baidu-youxuan/gallery-06.jpg",
+        "name": "AI助手-ios日间 1.png",
+        "w": 407,
+        "h": 1200
+      },
+      {
+        "src": "assets/site/baidu-youxuan/gallery-07.jpg",
+        "name": "爆料商品可对比-改前.png",
+        "w": 779,
+        "h": 1200
+      },
+      {
+        "src": "assets/site/baidu-youxuan/gallery-08.jpg",
+        "name": "爆料商品可对比-改后.png",
+        "w": 554,
+        "h": 1200
+      }
+    ],
+    "coverSize": {
+      "w": 406,
+      "h": 1000
+    }
+  },
+  "digital-human": {
+    "cover": "assets/site/digital-human/cover.jpg",
+    "gallery": [
+      {
+        "src": "assets/site/digital-human/gallery-01.jpg",
+        "name": "模版.png",
+        "w": 1800,
+        "h": 364
+      },
+      {
+        "src": "assets/site/digital-human/gallery-02.jpg",
+        "name": "16_9栅格.jpg",
+        "w": 1800,
+        "h": 1013
+      },
+      {
+        "src": "assets/site/digital-human/gallery-03.jpg",
+        "name": "初始态.jpg",
+        "w": 1800,
+        "h": 1013
+      },
+      {
+        "src": "assets/site/digital-human/gallery-04.jpg",
+        "name": "常规态.jpg",
+        "w": 1800,
+        "h": 960
+      },
+      {
+        "src": "assets/site/digital-human/gallery-05.jpg",
+        "name": "高亮态.jpg",
+        "w": 1800,
+        "h": 1013
+      },
+      {
+        "src": "assets/site/digital-human/gallery-06.jpg",
+        "name": "美妆.png",
+        "w": 1800,
+        "h": 1013
+      },
+      {
+        "src": "assets/site/digital-human/gallery-07.jpg",
+        "name": "3C数数码.png",
+        "w": 1800,
+        "h": 1013
+      },
+      {
+        "src": "assets/site/digital-human/gallery-08.jpg",
+        "name": "通用.png",
+        "w": 1800,
+        "h": 1013
+      }
+    ],
+    "coverSize": {
+      "w": 1500,
+      "h": 303
+    }
+  },
+  "image-workflow": {
+    "cover": "assets/site/image-workflow/cover.jpg",
+    "gallery": [
+      {
+        "src": "assets/site/image-workflow/gallery-01.jpg",
+        "name": "Frame 2.png",
+        "w": 1800,
+        "h": 932
+      },
+      {
+        "src": "assets/site/image-workflow/gallery-02.jpg",
+        "name": "Frame 3_1.png",
+        "w": 951,
+        "h": 1200
+      },
+      {
+        "src": "assets/site/image-workflow/gallery-03.jpg",
+        "name": "Frame 4.png",
+        "w": 755,
+        "h": 1200
+      }
+    ],
+    "coverSize": {
+      "w": 1500,
+      "h": 777
+    }
+  },
+  "portrait": "assets/site/portrait.jpg",
+  "resume": "assets/site/resume-uiux-meijiayi.pdf"
+}
