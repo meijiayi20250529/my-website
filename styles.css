@@ -131,6 +131,11 @@ main {
   white-space: nowrap;
 }
 
+.title-row {
+  display: inline-block;
+  white-space: nowrap;
+}
+
 .highlight {
   position: relative;
   display: inline-block;
