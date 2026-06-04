@@ -792,6 +792,11 @@ body.case-open .case-drawer::before {
   margin-top: 28px;
 }
 
+.about-card {
+  aspect-ratio: auto;
+  min-height: auto;
+}
+
 .about-facts {
   display: flex;
   flex-wrap: wrap;
